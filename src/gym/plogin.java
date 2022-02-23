@@ -50,7 +50,7 @@ public class plogin extends javax.swing.JFrame {
 
         l1.setText("User Name");
 
-        l2.setText("Password");
+        l2.setText("password");
 
         t1.setText("jTextField1");
         t1.addActionListener(new java.awt.event.ActionListener() {
